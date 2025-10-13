@@ -63,3 +63,23 @@ Recommendations based on identified vulnerabilities:
 	4.	Use strong passwords and rotate them periodically.
 	5.	Conduct routine wireless penetration tests.
 	6.	Train users to avoid fake Wi-Fi networks.
+
+	🧠 Findings Summary
+	#
+Observation
+Risk
+1
+Weak Wi-Fi password (password123)
+Easy to crack
+2
+Automatic reconnection after deauth
+Handshake captured easily
+3
+No network segmentation
+Increases lateral attack surface
+4
+Shared Wi-Fi credentials
+Poor user accountability
+5
+WPA2 instead of WPA3
+Vulnerable to offline attacks
