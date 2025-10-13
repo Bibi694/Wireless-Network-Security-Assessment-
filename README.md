@@ -48,3 +48,18 @@ Tools Used:
 	•	Used rockyou.txt wordlist for a dictionary attack.
 	•	Decompressed the wordlist and ran aircrack-ng against the captured handshake.
 	•	Successfully recovered weak passwords, proving the risk of simple passphrases.
+	
+	⚠ Task 3 — Rogue AP / Evil Twin Simulation
+	•	Outlined the process of simulating a fake AP to trick users.
+	•	Unable to perform live demo due to missing USB Wi-Fi adapter.
+	•	Documented reproducible steps for physical testing.
+
+	🧾 Task 4 — Security Recommendations
+
+Recommendations based on identified vulnerabilities:
+	1.	Upgrade all APs to WPA3-Enterprise for stronger encryption.
+	2.	Segment networks by department (Admin, Staff, Guest).
+	3.	Implement RADIUS Authentication (802.1X) for individual access control.
+	4.	Use strong passwords and rotate them periodically.
+	5.	Conduct routine wireless penetration tests.
+	6.	Train users to avoid fake Wi-Fi networks.
