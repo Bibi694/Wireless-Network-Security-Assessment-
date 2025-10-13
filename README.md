@@ -25,9 +25,14 @@ Interfaces Simulated:
 	•	wlan0 → Access Point (AP)
 	•	wlan1 → Client/Victim
 	•	wlan2 → Monitor Interface
-
+	
 Tools Used:
-Aircrack-ng • Wireshark • Hostapd • wpa_supplicant • Python • mac80211_hwsim
+	•	Aircrack-ng – for capture and cracking
+	•	Wireshark – for packet analysis
+	•	Hostapd – to simulate a wireless access point
+	•	wpa_supplicant – to simulate a wireless client
+	•	Python – for basic captive portal scripting
+	•	mac80211_hwsim – to create virtual radio
 
 ⸻
 
@@ -38,3 +43,8 @@ Aircrack-ng • Wireshark • Hostapd • wpa_supplicant • Python • mac80211
 	•	Configured wlan0 as AP, wlan1 as client, and wlan2 as monitor.
 	•	Captured the 4-way WPA handshake using airodump-ng.
 	•	Verified handshake in the .cap file.
+	
+🔐 Task 2 — Weak Password Cracking
+	•	Used rockyou.txt wordlist for a dictionary attack.
+	•	Decompressed the wordlist and ran aircrack-ng against the captured handshake.
+	•	Successfully recovered weak passwords, proving the risk of simple passphrases.
