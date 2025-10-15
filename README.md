@@ -43,7 +43,8 @@ Tools Used:
 	•	Configured wlan0 as AP, wlan1 as client, and wlan2 as monitor.
 	•	Captured the 4-way WPA handshake using airodump-ng.
 	•	Verified handshake in the .cap file.
-![wiFi Lab](Virtual radios)
+![wiFi Lab](Virtual radios.PNG)
+
 
 🔐 Task 2 — Weak Password Cracking
 	•	Used rockyou.txt wordlist for a dictionary attack.
