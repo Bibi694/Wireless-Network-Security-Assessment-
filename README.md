@@ -65,21 +65,22 @@ Recommendations based on identified vulnerabilities:
 	6.	Train users to avoid fake Wi-Fi networks.
 
 	🧠 Findings Summary
-	#
-Observation
-Risk
-1
-Weak Wi-Fi password (password123)
-Easy to crack
-2
-Automatic reconnection after deauth
-Handshake captured easily
-3
-No network segmentation
-Increases lateral attack surface
-4
-Shared Wi-Fi credentials
-Poor user accountability
-5
-WPA2 instead of WPA3
-Vulnerable to offline attacks
+| # | Observation                          | Risk                             |
+|---|--------------------------------------|----------------------------------|
+| 1 | Weak Wi-Fi password (password123)    | Easy to crack                    |
+| 2 | Automatic reconnection after deauth  | Handshake can be captured easily |
+| 3 | No network segmentation              | Increases lateral attack surface |
+| 4 | Shared Wi-Fi credentials             | Poor user accountability         |
+| 5 | WPA2 instead of WPA3                 | Vulnerable to offline attacks    |
+
+💡 Portfolio Value
+
+This project demonstrates practical skills in:
+	•	Wireless penetration testing
+	•	Network security assessment
+	•	Ethical hacking methodology
+	•	Technical documentation
+	👨‍💻 Author
+
+Abiodun Alamin (Bibi)
+🔗 LinkedIn | 🧠 Cybersecurity Enthusiast | SOC Analyst in Training
