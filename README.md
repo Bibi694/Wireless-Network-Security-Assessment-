@@ -44,7 +44,16 @@ Tools Used:
 	•	Captured the 4-way WPA handshake using airodump-ng.
 	•	Verified handshake in the .cap file.
 
-	![WiFi_Lab](Virtual_radios.PNG) 
+![WiFi_Lab](WiFi_Lab/Virtual_radios.PNG) 
+![image](WiFi_Lab/Monitor_mode.PNG)
+![image](WiFi_Lab/ip_setup.PNG)
+![image](WiFi_Lab/Hostapd_setup.PNG)
+![image](WiFi_Lab/wpa_supplicant.PNG)
+![image](WiFi_Lab/Network_scan.jpg)
+
+
+
+
 	
 	
 
