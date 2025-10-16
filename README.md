@@ -91,7 +91,13 @@ This project demonstrates practical skills in:
 	•	Network security assessment
 	•	Ethical hacking methodology
 	•	Technical documentation
+	
 	👨‍💻 Author
+## 👤 About Me
 
-Abiodun Alamin (Bibi)
-🔗 https://linkedin.com/in/biodun-alamin- | 🧠 Cybersecurity Enthusiast | SOC Analyst in Training
+*Abiodun Alamin* (aka Bibi)  
+Cybersecurity Beginner | SOC Analyst in Training  
+This repo documents my learning journey in building a full virtual home lab from scratch.
+
+💼 Follow my journey on [LinkedIn](https://linkedin.com/in/biodun-alamin-)
+🧠 Cybersecurity Enthusiast | SOC Analyst in Training
