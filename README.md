@@ -49,19 +49,16 @@ Tools Used:
 ![image](WiFi_Lab/ip_setup.PNG)
 ![image](WiFi_Lab/Hostapd_setup.PNG)
 ![image](WiFi_Lab/wpa_supplicant.PNG)
-![image](WiFi_Lab/Network_scan.jpg)
-
-
-
-
-	
-	
-
+![image](WiFi_Lab/Handshake_scan.jpg)
+![image](WiFi_Lab/Deauth_capture.PNG)
+![image](WiFi_Lab/Handshake.PNG)
+![image](WiFi_Lab/Handshake_cap.PNG)
 
 🔐 Task 2 — Weak Password Cracking
 	•	Used rockyou.txt wordlist for a dictionary attack.
 	•	Decompressed the wordlist and ran aircrack-ng against the captured handshake.
 	•	Successfully recovered weak passwords, proving the risk of simple passphrases.
+	![image](WiFi_Lab/aircrack_result.PNG)
 	
 	⚠ Task 3 — Rogue AP / Evil Twin Simulation
 	•	Outlined the process of simulating a fake AP to trick users.
