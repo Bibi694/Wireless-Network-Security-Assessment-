@@ -94,4 +94,4 @@ This project demonstrates practical skills in:
 	👨‍💻 Author
 
 Abiodun Alamin (Bibi)
-🔗 LinkedIn | 🧠 Cybersecurity Enthusiast | SOC Analyst in Training
+🔗 https://linkedin.com/in/biodun-alamin- | 🧠 Cybersecurity Enthusiast | SOC Analyst in Training
